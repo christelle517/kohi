@@ -1,0 +1,125 @@
+
+ul {
+	list-style-type: none;
+ 	margin: 0;
+  	padding: 7px;
+  	overflow: hidden;
+  	background-color: #a47454;
+  	position: inline;
+  	top: 0;
+  	width: 100%;
+	font-family: tahoma, arial;
+}
+
+li {
+	display: block;
+	color: ffe4c4;
+	text-align: center;
+	padding: 15px 17px;
+	float:left;
+}
+
+li:hover {
+	 background-color: #ddd;
+
+}
+
+p {
+	background-color:#d5b895;
+  	padding: 7px;
+	font-family: tahoma, arial;
+}
+
+#kape {
+  background-image: url('../src/biin.jpg');
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+
+h1{
+	color:white;
+}
+
+*{
+	font-family: Arial, Tahoma, Verdana, Sans-serif;
+}
+
+section{
+	border: 3px;
+	padding: 5px;
+
+}
+#ara {
+	background-color: #BFAA8C;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+
+#robu {
+	background-color: #e8dcb5;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+#libe {
+	background-color: #F5E1CE;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+#exe {
+	background-color: #E8DED1;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+#lit {
+	background-color: #b08e6b;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+
+#hot {
+	background-color: #F0DFCC;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+
+#head {
+	background-color: #DEC5AF;
+  	padding: 5px;
+	font-family: tahoma, arial;
+}
+
+
+body {
+  background-image: url('../src/dodle.jpg');
+  background-attachment: fixed;  
+}
+
+
+.bg-image {
+	background-image: url("../src/biin.jpg");
+  	filter: blur(1px);
+  	background-position: center;
+  	height: 100%;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+fieldset (
+	background-image:"../src/biin.jpg";
+  	height: 100%;
+  	background-position: center;
+  	background-size: cover;
+	border: solid black 5px;
+	width: 5px
+padding: 10px
+}
+
+footer {
+ 	background-color: #a47454;
+	position: center;
+	font-color: solid black;
+
+}
+
+
+
